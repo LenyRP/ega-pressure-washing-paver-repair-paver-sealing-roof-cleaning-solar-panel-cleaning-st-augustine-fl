@@ -1,0 +1,13 @@
+{
+  "name": "ega-pressure-washing-paver-repair-paver-sealing-roof-cleaning-solar-panel-cleaning-st-augustine-fl",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^4.0.0"
+  }
+}
